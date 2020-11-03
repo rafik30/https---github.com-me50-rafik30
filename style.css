@@ -1,0 +1,46 @@
+
+
+
+
+h3{
+    font-family:Arial, Helvetica, sans-serif ;
+    color: red;
+} 
+h4 {
+    
+    font-family: Arial, Helvetica, sans-serif;  
+    margin-bottom: 10ch;
+}
+
+
+ p{
+     font-size: large;
+     font-family: Georgia, 'Times New Roman', Times, serif;  
+ }
+ 
+ 
+ 
+ .button{
+    background-color: rgba(0, 89, 255, 0.986); 
+    color: white; 
+    text-align: center;
+    width: 2in;
+    margin: 80px;
+    padding: 1ch;
+ }
+
+ .back{
+   position: absolute;
+    top: 3ch;
+    left:10in ;
+
+ }
+ .all{
+     position: absolute;
+    left: 5in;
+    width: 3in;
+ }
+
+   
+
+ 
